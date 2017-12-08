@@ -1,4 +1,4 @@
-# Servlet_GenerricServlet
+# Servlet_GenericServlet
 GenericServlet class implements Servlet, ServletConfig and Serializable interfaces. It provides the implementation of all the methods of these interfaces except the service method.  GenericServlet class can handle any type of request so it is protocol-independent.  You may create a generic servlet by inheriting the GenericServlet class and providing the implementation of the service method.
 
 Methods of GenericServlet class
